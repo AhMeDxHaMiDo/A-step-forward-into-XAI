@@ -1,5 +1,5 @@
 # The project is still under development, here is the first concluded results that I obtained so far (which is promising!).
-If you are interested in collaboration, please message me on [LinkedIn](https://www.linkedin.com/in/ahmedxhamido/).
+If you are interested in collaboration, please message me on [LinkedIn](https://www.linkedin.com/in/ahmedxomar101/).
 # Analysis-of-multi-class-vs-multi-task-classification
 This project is one of my personal projects that I decided to move it forward and work on it for the Advanced Machine Learning Course at Sapienza University under the supervision of Professor Fabio Galasso.
 
